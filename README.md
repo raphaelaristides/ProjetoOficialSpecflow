@@ -20,9 +20,10 @@ Automação de testes via WEB criado através do VS / Selenium WEBDRIVER, com as
 
 <div>
 <a href="https://github.com/raphaelaristides">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAristides&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelaristides&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelaristides&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
+
   
   
   
